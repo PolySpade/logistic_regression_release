@@ -1,0 +1,5 @@
+.venv
+__pycache__
+cat_test
+cat_train
+cat_dataset.hdf5
